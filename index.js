@@ -24,7 +24,9 @@ function prependKitten(name){
   //prepends a kitten to the kittens array and returns a new array, leaving the kittens array unchanged
 }
 
-
+function removeLastKitten(){
+  //
+}
 
 
 
